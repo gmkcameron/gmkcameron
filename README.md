@@ -94,33 +94,72 @@
 
 ## 📂 Projetos em Destaque
 
-- **Bald Faces – Frontend com Next.js/TypeScript**
-  - Desenvolvimento do front-end do site **Caras de Careca**, com foco em **performance**, **acessibilidade** e **boas práticas de componentização**.
-  - _Stack_: Next.js, TypeScript, React, CSS.
-  - 🔗 Site: https://carasdecareca.com.br
+> 🎭 **Bald Faces – Frontend com Next.js/TypeScript**  
+> Frontend do site **Caras de Careca**, com foco em **performance**, **acessibilidade** e **componentização**.  
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+> </p>
+> 🔗 **Site:** https://carasdecareca.com.br  
 
-- **Portfólio Nathasha Prado – Landing Page Responsiva**
-  - Landing page responsiva desenvolvida em **HTML, CSS e JavaScript**, com foco em **UI limpa**, **responsividade** e **experiência mobile-first**.
-  - _Stack_: HTML5, CSS3, JavaScript.
-  - 🔗 Site: https://www.sousemente.com  
-  - 🔗 Código: https://github.com/gmkcameron/portfolio_nath
+---
 
-- **Análise de Dados em Epidemiologia (UFRJ)**
-  - Desenvolvimento de scripts em **R** para **automação de cálculos**, **análise de banco de dados** e **geração de relatórios acadêmicos** na área de epidemiologia.
-  - _Stack_: R, automação de relatórios.
+> 🧑‍🎨 **Portfólio Nathasha Prado – Landing Page Responsiva**  
+> Landing page responsiva em **HTML, CSS e JavaScript**, com **UI limpa** e **experiência mobile-first**.  
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+> </p>
+> 🔗 **Site:** https://www.sousemente.com  
+> 🔗 **Código:** https://github.com/gmkcameron/portfolio_nath  
 
-- **Landing Page – Projeto Laroyê**
-  - Landing page moderna com **React/Next.js**, foco em **UI**, **componentização** e **responsividade**.
-  - _Stack_: Next.js, TypeScript, React, CSS.
-  - 🔗 Site: https://www.laroyeclube.com/
+---
 
-- **Landing Page – Clínica Veterinária**
-  - Página institucional focada em usabilidade e experiência em dispositivos móveis.
-  - _Stack_: HTML5, CSS3, JavaScript.
+> 📊 **Análise de Dados em Epidemiologia (UFRJ)**  
+> Scripts em **R** para **automação de cálculos**, **análise de banco de dados** e **relatórios acadêmicos** em epidemiologia.  
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+> </p>
 
-- **API com Node.js**
-  - API simples para cadastro/listagem de dados, construída para treinar **back-end com Node.js** e consumo via REST.
-  - _Stack_: Node.js, (Express, REST APIs).
+---
+
+> 🌀 **Landing Page – Projeto Laroyê**  
+> Landing page moderna com **React/Next.js**, focada em **UI**, **componentização** e **responsividade**.  
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+> </p>
+> 🔗 **Site:** https://www.laroyeclube.com/  
+
+---
+
+> 🐾 **Landing Page – Clínica Veterinária**  
+> Página institucional focada em **usabilidade** e **experiência mobile**.  
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+> </p>
+
+---
+
+> 🔗 **API com Node.js**  
+> API para **cadastro e listagem** de dados, usada para treinar **back-end com Node.js** e consumo via REST.  
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+> </p>
 
 ---
 
