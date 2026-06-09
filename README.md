@@ -95,7 +95,7 @@
 ## 📂 Projetos em Destaque
 
 > 🎭 **Bald Faces – Frontend com Next.js/TypeScript**  
-> Frontend do site **Caras de Careca**, com foco em **performance**, **acessibilidade** e **componentização**.  
+> Frontend do site **Bald Faces**, com foco em **performance**, **acessibilidade** e **componentização**.  
 > <p>
 >   <strong>Stack:&nbsp;</strong>
 >   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -103,7 +103,7 @@
 >   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 >   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 > </p>
-> 🔗 **Site:** https://carasdecareca.com.br  
+> 🔗 **Site:** https://www.baldfaces.com/ 
 
 ---
 
