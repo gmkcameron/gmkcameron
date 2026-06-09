@@ -129,19 +129,6 @@
 
 ---
 
-> 🌀 **Landing Page – Projeto Laroyê**  
-> Landing page moderna com **React/Next.js**, focada em **UI**, **componentização** e **responsividade**.  
-> <p>
->   <strong>Stack:&nbsp;</strong>
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-> </p>
-> 🔗 **Site:** https://www.laroyeclube.com/  
-
----
-
 > 🐾 **Landing Page – Clínica Veterinária**  
 > Página institucional focada em **usabilidade** e **experiência mobile**.  
 > <p>
