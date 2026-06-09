@@ -146,7 +146,7 @@
 >   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
 >   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
 > </p>
-> 🔗 **Site: **https://cameronintegrativa.com.br/
+> 🔗 **Site:** https://cameronintegrativa.com.br/
 
 ---
 
@@ -160,22 +160,23 @@
 
 ---
 
-▎ 📚 # 📚 Aprendendo a Ler e a Escrever — Português Lúdico
-▎
-▎ Landing page premium desenvolvida para o infoproduto Aprendendo a Ler e a Escrever — Atividades para Crianças do 1º Ano, voltada a famílias brasileiras vivendo fora do Brasil que querem manter o português vivo no cotidiano dos filhos.
-▎
-▎ O projeto prioriza emoção e conversão — guiando o visitante da identificação com a dor até a compra no Hotmart com o menor atrito possível, incluindo fluxo de Order Bump integrado.
-▎
-▎ <p>
-▎   <strong>Stack:&nbsp;</strong>
-▎   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js 14" />
-▎   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React 18" />
-▎   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript (JSX)" />
-▎   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS 3" />
-▎   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
-▎ </p>
-▎
-▎ Tipografia: Luckiest Guy (display) + Montserrat (texto) · Paleta: teal #01b4bb, verde #33bf58, amarelo #f5d51e, creme #f4ede5
+> 📚 # 📚 Aprendendo a Ler e a Escrever — Português Lúdico
+>
+> Landing page premium desenvolvida para o infoproduto Aprendendo a Ler e a Escrever — Atividades para Crianças do 1º Ano, voltada a famílias brasileiras vivendo > fora do Brasil que querem manter o português vivo no cotidiano dos filhos.
+> 
+> O projeto prioriza emoção e conversão — guiando o visitante da identificação com a dor até a compra no Hotmart com o menor atrito possível, incluindo fluxo de > Order Bump integrado.
+> 
+> Tipografia: Luckiest Guy (display) + Montserrat (texto) · Paleta: teal #01b4bb, verde #33bf58, amarelo #f5d51e, creme #f4ede5
+> 
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js 14" />
+>    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React 18" />
+>    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript (JSX)" />
+>    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS 3" />
+>    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
+> </p>
+> 🔗 **Site:** https://materiais.portuguesludico.com/
 
 ---
 
