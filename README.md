@@ -130,14 +130,14 @@
 ---
 
 > 🐾 # 🐾 Acupuntura Veterinária Dr. Cameron
-
+> 
 > Landing page institucional desenvolvida para o **Dr. Guilherme Cameron**,
 > veterinário especialista em Acupuntura e Terapias Integrativas com +14 anos
 > de experiência, atendendo na Zona Sul do RJ, Teresópolis e Guapimirim.
 > 
 > O projeto prioriza clareza de informação e conversão — levando o visitante
 > do primeiro contato ao agendamento via WhatsApp com o menor atrito possível.
-
+> 
 > <p>
 >   <strong>Stack:&nbsp;</strong>
 >   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
@@ -147,16 +147,6 @@
 >   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
 > </p>
 > 🔗 **Site:** https://cameronintegrativa.com.br/
-
----
-
-> 🔗 **API com Node.js**  
-> API para **cadastro e listagem** de dados, usada para treinar **back-end com Node.js** e consumo via REST.  
-> <p>
->   <strong>Stack:&nbsp;</strong>
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-> </p>
 
 ---
 
@@ -177,6 +167,16 @@
 >    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
 > </p>
 > 🔗 **Site:** https://materiais.portuguesludico.com/
+
+---
+
+> 🔗 **API com Node.js**  
+> API para **cadastro e listagem** de dados, usada para treinar **back-end com Node.js** e consumo via REST.  
+> <p>
+>   <strong>Stack:&nbsp;</strong>
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+>   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+> </p>
 
 ---
 
