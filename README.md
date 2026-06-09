@@ -160,26 +160,6 @@ do primeiro contato ao agendamento via WhatsApp com o menor atrito possível.
 
 ---
 
-## 📈 Estatística do GitHub
-
-<!-- Substitua SEU_USUARIO_GITHUB pelo seu usuário real -->
-
-<!-- <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gmkcameron&show_icons=true&theme=dracula" 
-    alt="GitHub Stats"
-  />
-</p>
--->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmkcameron&layout=compact&theme=dracula" 
-    alt="Top Langs"
-  />
-</p>
-
----
-
 ## 📫 Como falar comigo
 
 <p align="left">
