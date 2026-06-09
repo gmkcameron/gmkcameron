@@ -131,12 +131,12 @@
 
 > 🐾 # 🐾 Acupuntura Veterinária Dr. Cameron
 
-Landing page institucional desenvolvida para o **Dr. Guilherme Cameron**,
-veterinário especialista em Acupuntura e Terapias Integrativas com +14 anos
-de experiência, atendendo na Zona Sul do RJ, Teresópolis e Guapimirim.
-
-O projeto prioriza clareza de informação e conversão — levando o visitante
-do primeiro contato ao agendamento via WhatsApp com o menor atrito possível.
+> Landing page institucional desenvolvida para o **Dr. Guilherme Cameron**,
+> veterinário especialista em Acupuntura e Terapias Integrativas com +14 anos
+> de experiência, atendendo na Zona Sul do RJ, Teresópolis e Guapimirim.
+> 
+> O projeto prioriza clareza de informação e conversão — levando o visitante
+> do primeiro contato ao agendamento via WhatsApp com o menor atrito possível.
 
 > <p>
 >   <strong>Stack:&nbsp;</strong>
