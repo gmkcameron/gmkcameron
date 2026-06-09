@@ -129,13 +129,22 @@
 
 ---
 
-> 🐾 **Landing Page – Clínica Veterinária**  
-> Página institucional focada em **usabilidade** e **experiência mobile**.  
+> 🐾 # 🐾 Acupuntura Veterinária Dr. Cameron
+
+Landing page institucional desenvolvida para o **Dr. Guilherme Cameron**,
+veterinário especialista em Acupuntura e Terapias Integrativas com +14 anos
+de experiência, atendendo na Zona Sul do RJ, Teresópolis e Guapimirim.
+
+O projeto prioriza clareza de informação e conversão — levando o visitante
+do primeiro contato ao agendamento via WhatsApp com o menor atrito possível.
+
 > <p>
 >   <strong>Stack:&nbsp;</strong>
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
->   <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
 > </p>
 
 ---
